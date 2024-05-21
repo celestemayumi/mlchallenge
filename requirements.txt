@@ -1,0 +1,17 @@
+
+#operações numéricas
+numpy
+
+# visualização
+matplotlib
+seaborn 
+
+# manipulação de dados
+pandas
+
+# modelo ML
+scikit-learn==1.2.2
+
+# APIs
+flask
+flask_cors
